@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from cashier_system/srv/UpdateParams.srv
+// generated code does not contain a copyright notice
+
+
+module cashier_system {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request part")
+    struct UpdateParams_Request {
+      int32 quantity;
+
+      double price;
+    };
+    struct UpdateParams_Response {
+      @verbatim (language="comment", text=
+        "Response part")
+      boolean success;
+
+      string message;
+    };
+  };
+};

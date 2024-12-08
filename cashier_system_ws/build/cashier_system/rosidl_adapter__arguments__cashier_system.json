@@ -1,0 +1,7 @@
+{
+  "package_name": "cashier_system",
+  "non_idl_tuples": [
+    "/home/darren-cmyk/cashier_system_ws/src/cashier_system:msg/Bill.msg",
+    "/home/darren-cmyk/cashier_system_ws/src/cashier_system:srv/UpdateParams.srv"
+  ]
+}

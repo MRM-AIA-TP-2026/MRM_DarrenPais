@@ -1,0 +1,9 @@
+# Request part
+int32 quantity
+float64 price
+
+---
+
+# Response part
+bool success
+string message
